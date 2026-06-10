@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hey, I'm Chabolo 👋
 
-<!--
-**chabolo-dev/chabolo-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a self-taught developer starting from zero, documenting my journey one commit at a time.
 
-Here are some ideas to get you started:
+## Where I'm at
+- 🐍 Currently learning Python (CS50P - Harvard)
+- 📚 Following a structured roadmap: Basics → Architecture → Git → Security
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Goals
+- Land my first dev job at a local company
+- Keep leveling up and aim for a role at a major studio one day
+- Build things that are actually useful
+
+## Open to
+- Constructive feedback
+- Tips from devs who started from scratch
+- Connecting with people on the same journey
+
+---
+*Day one was June 7, 2026. Let's see where this goes.*
