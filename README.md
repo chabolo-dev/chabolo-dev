@@ -3,7 +3,7 @@
 I'm a self-taught developer starting from zero, documenting my journey one commit at a time.
 
 ## Where I'm at
-- 🐍 Currently learning Python (CS50P - Harvard)
+- 🐍 Currently learning  (CS50x - Harvard)
 - 📚 Following a structured roadmap: Basics → Architecture → Git → Security
 
 ## Goals
